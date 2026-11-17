@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "periodo": "Periodo Clásico",
+    "subtitulo": "Grecia, siglos V - IV a. C.",
+    "descripcionGeneral": "Se enfoca en la proporción matemática, el equilibrio y la serenidad idealizada.",
+    "artistasFamosos": "Mirón, Policleto",
+    "portadaPeriodo": "https://www.ttamayo.com/wp-content/uploads/2024/04/image-5.png",
+    "obras": [
+      {
+        "titulo": "El Discóbolo",
+        "artista": "Mirón",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3avhzdM1-GaJRS5_MVeT9ujJbcAAtDvJRv7Van8xtA&s=10",
+        "descripcionDetallada": "El atleta capturado en el instante exacto antes de lanzar el disco."
+      },
+      {
+        "titulo": "Doríforo",
+        "artista": "Policleto",
+        "imagen": "https://static.bbmuseoak.eus/bilboko-berreginen-museoa/files/exposiciones/interactivos/greziar_simetria/images/Doriforo_sin_canon.png",
+        "descripcionDetallada": "La obra que definió el canon de las siete cabezas para la anatomía perfecta."
+      },
+      {
+        "titulo": "Tumba del Nadador",
+        "artista": "Anónimo (Paestum)",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fd/PaestumTaucher.jpg",
+        "descripcionDetallada": "El único fresco griego clásico conservado intacto, muestra a un hombre lanzándose al agua."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "periodo": "Helenismo",
+    "subtitulo": "Grecia, siglos IV - I a. C.",
+    "descripcionGeneral": "Rompe la calma clásica para mostrar dolor, torsión, movimiento extremo y dramatismo.",
+    "artistasFamosos": "Agesandro, Polidoro, Atenodoro",
+    "portadaPeriodo": "https://content-historia.nationalgeographic.com.es/medio/2022/10/13/laocon-primera_6d6e9d35_1280x1561.jpg",
+    "obras": [
+      {
+        "titulo": "Laocoonte y sus hijos",
+        "artista": "Agesandro, Polidoro y Atenodoro",
+        "imagen": "https://content-historia.nationalgeographic.com.es/medio/2022/10/13/laocon-primera_6d6e9d35_1280x1561.jpg",
+        "descripcionDetallada": "Máxima expresión de agonía y tensión muscular frente a las serpientes marinas."
+      },
+      {
+        "titulo": "Victoria de Samotracia",
+        "artista": "Anónimo Helenístico",
+        "imagen": "https://m.media-amazon.com/images/I/61qYlcKzBoL._AC_UF894,1000_QL80_.jpg",
+        "descripcionDetallada": "Figura alada posándose sobre la proa de un barco con las telas agitadas por el viento."
+      },
+      {
+        "titulo": "Batalla de Issos",
+        "artista": "Copia de Filóxeno de Eretria",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Alexander_%28Battle_of_Issus%29_Mosaic.jpg",
+        "descripcionDetallada": "Mosaico de Pompeya que muestra a Alejandro Magno en pleno combate."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "periodo": "Renacimiento",
+    "subtitulo": "Europa, siglos XV - XVI",
+    "descripcionGeneral": "El renacer de los ideales clásicos, el dominio de la perspectiva y la armonía visual.",
+    "artistasFamosos": "Miguel Ángel",
+    "portadaPeriodo": "https://static7.depositphotos.com/1218074/747/i/450/depositphotos_7475026-stock-photo-michelagelos-david.jpg",
+    "obras": [
+      {
+        "titulo": "El David",
+        "artista": "Miguel Ángel",
+        "imagen": "https://static7.depositphotos.com/1218074/747/i/450/depositphotos_7475026-stock-photo-michelagelos-david.jpg",
+        "descripcionDetallada": "El máximo símbolo de la anatomía heroica y la tensión contenida en mármol."
+      },
+      {
+        "titulo": "La Piedad",
+        "artista": "Miguel Ángel",
+        "imagen": "https://m.media-amazon.com/images/I/71InOtfINwL.jpg",
+        "descripcionDetallada": "Escultura de una suavidad, detalle en los mantos y equilibrio emocional inigualables."
+      },
+      {
+        "titulo": "Pietà Rondanini",
+        "artista": "Miguel Ángel",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmTkkKoYNeHDfq9KpBOXXerfaqQdifyiZzm2ELiEhHlVq-9n2IYOYojIM&s=10",
+        "descripcionDetallada": "La última obra profundamente abstracta y desgarradora en la que trabajó el maestro."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "periodo": "Arte Mesoamericano",
+    "subtitulo": "Mesoamérica prehispánica",
+    "descripcionGeneral": "Cosmovisión sagrada, monumentalidad en piedra y simbolismo cósmico y deidades ancestrales.",
+    "artistasFamosos": "Escultores y tlacuilos anónimos mexicas y mayas",
+    "portadaPeriodo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Coatlicue.png",
+    "obras": [
+      {
+        "titulo": "Coatlicue",
+        "artista": "Artista Mexica (Anónimo)",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Coatlicue.png",
+        "descripcionDetallada": "Monolito imponente de la madre de los dioses, cargado de símbolos de vida y muerte."
+      },
+      {
+        "titulo": "Rey Pakal el Grande",
+        "artista": "Artista Maya (Anónimo)",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEP8P_PcMqNkiKmRflhieEo-yp6Vz5QBFp2fA_QQ-dWNVDSsqqiaOM-M&s=10",
+        "descripcionDetallada": "Retrato en estuco del gobernante de Palenque, reflejando el realismo del arte maya."
+      },
+      {
+        "titulo": "Chac Mool",
+        "artista": "Artista Prehispánico (Anónimo)",
+        "imagen": "https://t4.ftcdn.net/jpg/02/64/01/11/360_F_264011119_66W9DNYLOcSncFaQP2JSra2EbpqxERVA.jpg",
+        "descripcionDetallada": "Escultura ritual que representa a una figura reclinada, usada para ofrendas sagradas."
+      }
+    ]
+  }
+]
